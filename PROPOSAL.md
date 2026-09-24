@@ -77,7 +77,7 @@ The smart contract (`contracts/private_loyalty_membership.compact`) implements 6
 - **Contract Address**: `0x5e6d68d8256c168f30bb2c1c4f604b50a5542569cc3f6876d71954c1e15047e8`
 - **Midnight Explorer**: [https://preview.midnightexplorer.com/contracts/0x5e6d68d8256c168f30bb2c1c4f604b50a5542569cc3f6876d71954c1e15047e8](https://preview.midnightexplorer.com/contracts/0x5e6d68d8256c168f30bb2c1c4f604b50a5542569cc3f6876d71954c1e15047e8)
 - **GitHub Repository**: [https://github.com/techyguy78886/private-loyalty-membership](https://github.com/techyguy78886/private-loyalty-membership)
-- **Live Demo Video**: [https://youtu.be/yE9w3OS1pso](https://youtu.be/yE9w3OS1pso)
+- **Live Demo Video**: [https://youtu.be/gOF2OKgVjtI](https://youtu.be/gOF2OKgVjtI)
 - **Live Application**: [https://private-loyalty-membership.vercel.app/](https://private-loyalty-membership.vercel.app/)
 
 ---

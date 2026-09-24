@@ -347,12 +347,16 @@ export class PrivateLoyaltyMembershipClient {
   // ─── Public State Query ─────────────────────────────────────────────────────
   public async fetchPublicState(): Promise<PublicState> {
     try {
+      const controller = new AbortController();
+      const timer = setTimeout(() => controller.abort(), 1500);
       const query = `query ContractState($address: String!) { contractState(address: $address) { data } }`;
       const res = await fetch(NETWORK_CONFIG.indexerUrl, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ query, variables: { address: this.contractAddress } }),
+        signal: controller.signal,
       });
+      clearTimeout(timer);
       const json = await res.json();
       if (json?.data?.contractState?.data) {
         const d = json.data.contractState.data;

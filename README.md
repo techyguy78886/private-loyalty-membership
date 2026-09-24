@@ -4,7 +4,7 @@
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-private--loyalty--membership-181717?style=flat-square&logo=github)](https://github.com/techyguy78886/private-loyalty-membership)
 [![Vercel Deployment](https://img.shields.io/badge/Vercel-Live_App-000000?style=flat-square&logo=vercel)](https://private-loyalty-membership.vercel.app/)
-[![YouTube Demo](https://img.shields.io/badge/YouTube-Demo_Video-FF0000?style=flat-square&logo=youtube)](https://youtu.be/yE9w3OS1pso)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Demo_Video-FF0000?style=flat-square&logo=youtube)](https://youtu.be/gOF2OKgVjtI)
 [![Framework](https://img.shields.io/badge/Framework-Next.js_14-black?style=flat-square&logo=nextdotjs)](https://nextjs.org)
 [![CI/CD Pipeline](https://github.com/techyguy78886/private-loyalty-membership/actions/workflows/ci.yml/badge.svg)](https://github.com/techyguy78886/private-loyalty-membership/actions/workflows/ci.yml)
 [![Midnight Network](https://img.shields.io/badge/Network-Midnight_Preview-8b5cf6?style=flat-square)](https://preview.midnightexplorer.com/contracts/0x5e6d68d8256c168f30bb2c1c4f604b50a5542569cc3f6876d71954c1e15047e8)
@@ -58,7 +58,7 @@ In response to the Level 3 review feedback (**"work on the UI"**), the applicati
 |---|---|
 | GitHub Repository | [https://github.com/techyguy78886/private-loyalty-membership](https://github.com/techyguy78886/private-loyalty-membership) |
 | Live Application | [https://private-loyalty-membership.vercel.app/](https://private-loyalty-membership.vercel.app/) |
-| YouTube Demo Video | [https://youtu.be/yE9w3OS1pso](https://youtu.be/yE9w3OS1pso) |
+| YouTube Demo Video | [https://youtu.be/gOF2OKgVjtI](https://youtu.be/gOF2OKgVjtI) |
 | Midnight Explorer | [https://preview.midnightexplorer.com/contracts/0x5e6d68d8256c168f30bb2c1c4f604b50a5542569cc3f6876d71954c1e15047e8](https://preview.midnightexplorer.com/contracts/0x5e6d68d8256c168f30bb2c1c4f604b50a5542569cc3f6876d71954c1e15047e8) |
 | **Contract Address** | `0x5e6d68d8256c168f30bb2c1c4f604b50a5542569cc3f6876d71954c1e15047e8` |
 | Network | Midnight Preview Testnet |

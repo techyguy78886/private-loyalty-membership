@@ -87,5 +87,5 @@ The smart contract (`contracts/private_loyalty_membership.compact`) implements 6
 - [x] **Zero-Knowledge Privacy**: Point balances and member identities remain client-side
 - [x] **Compact Circuits**: 6 functional circuits compiled and validated
 - [x] **Midnight.js Integration**: DApp Connector API for Midnight Lace wallet connection
-- [x] **Test Coverage**: 10/10 Vitest unit tests passing
+- [x] **Test Coverage**: 35/35 Vitest unit tests passing across contract and client suites
 - [x] **Production Ready**: Next.js 14 App Router static build verified
